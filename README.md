@@ -1,2 +1,2 @@
 # HappyTetris
-Happy Tetris is written in Java.
+Happy Tetris is written in CSharp.
